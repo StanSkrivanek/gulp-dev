@@ -1,2 +1,2 @@
 # gulp-dev
- This is my curren gulp setting Im using for WP theme development
+ This is my current gulp setting Im using for WP theme development
