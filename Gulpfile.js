@@ -71,7 +71,7 @@ gulp.task('watch', function() {
     browserSync.init({
         browser: "firefox", // set initial browser "google chrome" "safari" ect
         open: 'external',
-        proxy: 'localhost:8888/webovkar',
+        proxy: 'localhost:8888/yourWebsiteName',
         port: 8080
     });
     gulp.watch([root + '**/*.css', root + '**/*.scss'], ['css']);
